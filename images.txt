@@ -1,2 +1,2 @@
---platform=linux/arm64 xiaoyaliu/alist docker.io/kiwigrid/k8s-sidecar:1.23.1
---platform=linux/arm64 xiaoyaliu/alist docker.io/jenkins/jenkins:2.387.3-jdk11
+--platform=linux/arm64 docker.io/kiwigrid/k8s-sidecar:1.23.1
+--platform=linux/arm64 docker.io/jenkins/jenkins:2.387.3-jdk11
