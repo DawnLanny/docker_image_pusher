@@ -1,3 +1,4 @@
 
 #支持私库
 docker.io/kiwigrid/k8s-sidecar:1.23.1
+docker.io/jenkins/jenkins:2.387.3-jdk11
