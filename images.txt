@@ -4,4 +4,4 @@ nginx
 docker.io/kiwigrid/k8s-sidecar:1.23.1
 docker.io/jenkins/jenkins:2.387.3-jdk11
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64
