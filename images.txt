@@ -1,2 +1,2 @@
---platform=linux/arm64 docker.io/kiwigrid/k8s-sidecar:1.29.0
---platform=linux/arm64 docker.io/jenkins/jenkins:2.440.1-jdk17
+--platform=linux/arm64 docker.io/kiwigrid/k8s-sidecar:1.24.4
+--platform=linux/arm64 docker.io/jenkins/jenkins:2.426.2-jdk17
